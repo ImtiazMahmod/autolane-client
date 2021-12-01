@@ -1,0 +1,7 @@
+.main-route{
+    text-decoration: none;
+    color: lightgray;
+}
+.main-route:hover{
+    color: white;
+}

@@ -1,0 +1,23 @@
+.bannerStyle{
+    background-image: url('https://i.ibb.co/StGxYvD/page-header.jpg');
+    background-size: cover;
+    background-color: #2b2b2b;
+    height: 360px;
+}
+.bannerContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 290px;
+    flex-direction: column;
+}
+.bannersubtitle{
+    font-size: 23px;
+    font-weight: 700;
+    color: #a1a1a1;
+}
+.bannertitle{
+    font-weight: 700;
+    font-size: 52px;
+    color: white;
+}
